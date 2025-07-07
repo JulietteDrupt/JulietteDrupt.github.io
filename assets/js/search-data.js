@@ -508,7 +508,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/Juliette DRUPT", "_blank");
+          window.open("https://www.linkedin.com/in/juliette-drupt", "_blank");
         },
       },{
         id: 'social-orcid',
