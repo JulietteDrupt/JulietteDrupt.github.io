@@ -2,31 +2,31 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Juliette Drupt
     - name: Date of Birth
-      value: 14th March 1879
+      value: 8th September 1997
     - name: Languages
-      value: English, German
+      value: English, French
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Toulon, Toulon, France
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        # - Description 1.
+        # - Description 2.
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
+    - title: Master of Engineering
+      institution: Ecole Nationale Supérieure des Mines de Saint-Etienne, Saint-Etienne, France
+      year: 2020
       description:
-        - Description 1.
-        - Description 2.
+        # - Description 1.
+        # - Description 2.
 
 - title: Experience
   type: time_table
