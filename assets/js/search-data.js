@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
         },{id: "nav-people",
           title: "people",
           description: "members of the lab or group",
@@ -433,16 +426,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-am-joining-the-marine-robotics-team-at-lirmm-and-iut-geii-montpellier-sète-as-assistant-professor",
+          title: 'I am joining the Marine Robotics Team at LIRMM and IUT GEII Montpellier-Sète...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-a-paper-prepared-during-my-postdoc-at-osl-is-accepted-at-icra-25-this-work-focuses-on-underwater-sonar-slam-using-space-carving",
+          title: 'A paper prepared during my postdoc at OSL is accepted at ICRA’25! This...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
