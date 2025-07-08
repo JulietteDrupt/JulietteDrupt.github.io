@@ -6,7 +6,7 @@
     "email": "firstname.lastname@lirmm.fr",
     "phone": "+334 67 41 85 85",
     "url": "https://juliettedrupt.github.io//",
-    "summary": "Assistant Professor in Marine robotics (mostly localization, mapping and underwater cable management and localization)",
+    "summary": "Assistant Professor in Marine robotics",
     "location": {
       "address": "161 rue Ada",
       "postalCode": "34095",
@@ -16,13 +16,28 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "University of Montpellier, Montpellier, France",
+      "position": "Assistant Professor",
+      "url": "https://www.umontpellier.fr/en/",
+      "startDate": "2024-09-01",
+      "summary": "Research in the Marine Robotics Team of LIRMM. Teaching at IUT Montpellier-Sète.",
+      "highlights": ["Marine robotics", "Localization and mapping, SLAM", "Underwater tether management"]
+    },
+    {
+      "name": "Heriot-Watt University, Edinburgh, UK",
+      "position": "Postdoc",
+      "url": "https://www.hw.ac.uk/",
+      "startDate": "2024-01-15",
+      "endDate": "2024-08-25",
+      "summary": "Underwater imagine sonar based 3D reconstruction, with the Ocean Systems Lab (OSL). Part of the AWARE project.",
+    },
+    {
+      "name": "Heriot-Watt University, Edinburgh, UK",
+      "position": "Postdoc",
+      "url": "https://www.hw.ac.uk/",
+      "startDate": "2024-01-15",
+      "endDate": "2024-08-25",
+      "summary": "Underwater imagine sonar based 3D reconstruction, with the Ocean Systems Lab (OSL). Part of the AWARE project.",
     }
   ],
   "volunteer": [
