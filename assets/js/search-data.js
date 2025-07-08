@@ -504,6 +504,13 @@ ninja.data = [{
           window.open("mailto:%6A%75%6C%69%65%74%74%65.%64%72%75%70%74@%6C%69%72%6D%6D.%66%72", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/JulietteDrupt", "_blank");
+        },
+      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
@@ -516,6 +523,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://orcid.org/0000-0003-3311-7742", "_blank");
+        },
+      },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/Juliette-Drupt/", "_blank");
         },
       },{
         id: 'social-scholar',
