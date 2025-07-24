@@ -29,34 +29,24 @@ nav_order: 7
 
 ## MSc Students
 
-<b>Laura Gonçalves Patricio</b>, 2025, 6 month <br>
-Co-supervised with Frédéric Comby (LIRMM) and Nicolas Bernard (Exail Robotics) <br>
-Title: Software Enhancement for Underwater Image Processing
-
 <div>
   <b>Laura Gonçalves Patricio</b>, 2025, 6 month <br>
   Co-supervised with Frédéric Comby (LIRMM) and Nicolas Bernard (Exail Robotics) <br>
   Title: Software Enhancement for Underwater Image Processing
 </div>
 
-<div class="row align-items-center">
-  <b>Laura Gonçalves Patricio</b>, 2025, 6 month <br>
-  Co-supervised with Frédéric Comby (LIRMM) and Nicolas Bernard (Exail Robotics) <br>
-  Title: Software Enhancement for Underwater Image Processing
-</div>
-
-<div class="row align-items-center">
+<div>
   <b>Corrina Berger</b>, 2025, 2 month <br>
   Title: Extrinsic calibration of a sonar-vision system
 </div>
 
-<div class="row align-items-center">
+<div>
   <b>Simon Archieri</b>, 2024, 6 month <br>
   Co-supervised with Ignacio Carlucho and Yvan Pétillot (OSL) <br>
   Title: 3D sonar mapping
 </div>
 
-<div class="row align-items-center">
+<div>
   <b>Ahmed HARBI</b> and <b>Abdelrhman BASSIOUNY</b>, 2022, 1 month <br>
   Co-supervised with Maxime Ferrera (IFREMER) and Claire Dune (COSMER) <br>
   Title: Experimental evaluation of visual-inertial SLAM for underwater
