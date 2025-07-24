@@ -34,18 +34,18 @@ nav_order: 7
   Co-supervised with Frédéric Comby (LIRMM) and Nicolas Bernard (Exail Robotics) <br>
   Title: Software Enhancement for Underwater Image Processing
 </div>
-
+<br>
 <div>
   <b>Corrina Berger</b>, 2025, 2 month <br>
   Title: Extrinsic calibration of a sonar-vision system
 </div>
-
+<br>
 <div>
   <b>Simon Archieri</b>, 2024, 6 month <br>
   Co-supervised with Ignacio Carlucho and Yvan Pétillot (OSL) <br>
   Title: 3D sonar mapping
 </div>
-
+<br>
 <div>
   <b>Ahmed HARBI</b> and <b>Abdelrhman BASSIOUNY</b>, 2022, 1 month <br>
   Co-supervised with Maxime Ferrera (IFREMER) and Claire Dune (COSMER) <br>
