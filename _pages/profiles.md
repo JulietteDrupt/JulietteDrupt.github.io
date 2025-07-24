@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /people/
-title: People
+title: people
 description: Current and past students
 nav: true
 nav_order: 7
