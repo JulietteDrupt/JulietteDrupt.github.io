@@ -29,6 +29,16 @@ nav_order: 7
 
 ## MSc Students
 
+<b>Laura Gonçalves Patricio</b>, 2025, 6 month <br>
+Co-supervised with Frédéric Comby (LIRMM) and Nicolas Bernard (Exail Robotics) <br>
+Title: Software Enhancement for Underwater Image Processing
+
+<div>
+  <b>Laura Gonçalves Patricio</b>, 2025, 6 month <br>
+  Co-supervised with Frédéric Comby (LIRMM) and Nicolas Bernard (Exail Robotics) <br>
+  Title: Software Enhancement for Underwater Image Processing
+</div>
+
 <div class="row align-items-center">
   <b>Laura Gonçalves Patricio</b>, 2025, 6 month <br>
   Co-supervised with Frédéric Comby (LIRMM) and Nicolas Bernard (Exail Robotics) <br>
